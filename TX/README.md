@@ -1,6 +1,8 @@
 Jasper contains campaign finance data for Texas state and local candidates; for federal (Senate, House of Representatives), look at fec.gov.
 
-Texas' campaign finance data is available as paged Excel documents. There are various measures to prevent automated downloads.
+The whole database is available at this link: https://www.ethics.state.tx.us/tedd/TEC_CF_CSV.zip. As of 2018-05-14, this ZIP archive was 448MB. Record layouts: https://www.ethics.state.tx.us/tedd/CFS-ReadMe.txt, as well as the ReadMe.txt within the archive. It appears to be updated about once per quarter.
+
+Individual candidates' campaign finance data is available as paged Excel documents. There are various measures to prevent automated downloads.
 
 https://www.ethics.state.tx.us/main/search.htm
 
